@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "elaborations/Strings.md",
+                "file": "Python/notes/2. Branching and iteration.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Strings"
+              "title": "2. Branching and iteration"
             }
           }
         ]
@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 226.5
   },
   "right": {
     "id": "5476206eb7a0baff",
@@ -171,12 +171,22 @@
   },
   "active": "84aa9b82f6d89b78",
   "lastOpenFiles": [
+    "Python/notes/3. String Manipulation.md",
+    "Python/notes/2. Branching and iteration.md",
+    "Python/notes/1. What is computation.md",
+    "Python/notes",
+    "Python/index/Index(notes).md",
+    "Python/index/Index(elaborations).md",
+    "Python/index",
+    "elaborations/Strings.md",
+    "Python/elaborations/Strings.md",
+    "Python/elaborations",
+    "Python",
     "notes/3. String Manipulation.md",
     "notes/2. Branching and iteration.md",
     "notes/1. What is computation.md",
     "index/Index(notes).md",
     "index/Index(elaborations).md",
-    "elaborations/Strings.md",
     "notes.md",
     "Index.md",
     "rough notes/Untitled",
@@ -186,7 +196,6 @@
     "elaborations",
     "index",
     "tags",
-    "source code",
-    "notes"
+    "source code"
   ]
 }
